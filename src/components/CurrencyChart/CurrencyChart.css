@@ -1,0 +1,10 @@
+.currency-chart {
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .currency-chart {
+      margin-top: 10px;
+    }
+  }
+  
